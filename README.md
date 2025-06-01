@@ -1,6 +1,6 @@
 # 🌐 dns-ops-and-security
 
-This repository explores DNS from both operational and security perspectives. It includes labs, threat detection techniques, protocol comparisons, and real-world misconfig scenarios. DNS is often a blind spot — this repo aims to change that.
+This repository explores DNS from both operational and security perspectives. It includes labs, threat detection techniques, protocol comparisons, and real-world misconfig scenarios. DNS is often a blind spot, this repo aims to change that.
 
 ## 🧠 Why This Repo Exists
 
